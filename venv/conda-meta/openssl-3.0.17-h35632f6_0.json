@@ -6,8 +6,8 @@
   "depends": [
     "ca-certificates",
     "ucrt >=10.0.20348.0",
-    "vc14_runtime >=14.29.30133",
-    "vc >=14.2,<15"
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
   ],
   "extracted_package_dir": "E:\\Anaconda\\pkgs\\openssl-3.0.17-h35632f6_0",
   "files": [
